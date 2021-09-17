@@ -1,0 +1,49 @@
+header{
+    background-color: whitesmoke;
+    height: 25vh;
+    width: 97%;
+    border: solid 5px black;
+    margin: 0 auto;
+}
+    .rectangle-1{
+        background-color: purple;
+        height: 150px;
+        width: 25px;
+        display: inline-block;
+    }
+
+    .rectangle-2{
+        background-color: green;
+        height: 200px;
+        width: 350px;
+        display: inline-block;
+    }
+    .circle{
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+        background-color: skyblue;
+        display: inline-block;
+      }
+
+main{
+    background-color: whitesmoke;
+    height: 25vh;
+    width: 97%;
+    border: dotted 5px black;
+    margin: 2vh auto;
+}
+    
+
+
+ 
+
+footer{
+    background-color: whitesmoke;
+    height: 25vh;
+    width: 50%;
+    margin: 0 auto;
+    border: solid 1px black;
+
+
+}
